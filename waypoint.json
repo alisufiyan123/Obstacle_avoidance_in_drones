@@ -1,0 +1,46 @@
+{
+    "waypoint": [
+        {
+            "distance in cm": 1224,
+            "distance in px": 238,
+            "angle_degree": 2
+        },
+        {
+            "distance in cm": 1670,
+            "distance in px": 325,
+            "angle_degree": 90
+        },
+        {
+            "distance in cm": 1185,
+            "distance in px": 230,
+            "angle_degree": 87
+        },
+        {
+            "distance in cm": 1516,
+            "distance in px": 295,
+            "angle_degree": 94
+        }
+    ],
+    "position": [
+        [
+            518,
+            501
+        ],
+        [
+            509,
+            263
+        ],
+        [
+            184,
+            270
+        ],
+        [
+            201,
+            500
+        ],
+        [
+            496,
+            503
+        ]
+    ]
+}
